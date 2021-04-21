@@ -29,7 +29,7 @@
 # Podcastr <img src=".github/logo-podcastr.svg" width="30" alt="logo icon">
 Projeto desenvolvido para gerenciar seus podcasts. Projeto realizado na Next Level Week #5 @Rocketseat.
 
-###### O melhor para você ouvir, sempre. 🎧🎶
+###### Melhor Podcast Dev. 🎧🎶
 
 <br>
 
