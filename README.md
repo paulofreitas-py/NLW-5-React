@@ -71,7 +71,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Rodando o projeto 🚴🏻‍♂️
 #### "Só vou dar uma olhadinha...":
-  <a href="https://nlw-5-react.vercel.app/">🎧 Site hospedado na Vercel 🎶</a>
+  <a href="https://nlw-5-react-podcastr.vercel.app/">🎧 Site hospedado na Vercel 🎶</a>
 
 #### Na sua maquina:
 <details>
