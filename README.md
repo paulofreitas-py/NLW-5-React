@@ -25,13 +25,6 @@
     <a href="#layout-">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#licença-%EF%B8%8F">Licença</a>
 </p>
-<!--
-<p align="center">
-    <a href="README.md">Inglês</a>
-    ·
-    <a href="README-pt.md">Português</a>
-</p>
--->
 
 # Podcastr <img src=".github/logo-podcastr.svg" width="30" alt="logo icon">
 Projeto desenvolvido para gerenciar seus podcasts. Projeto realizado na Next Level Week #5 @Rocketseat.
@@ -74,19 +67,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
     <!--<img width="180px" src="./.github/mobile/home-with-podcast.png">-->
     <!--<img width="180px" src="./.github/mobile/podcast-information.png">-->
 </div>
-<!--<a href="./.github/README-IMGS.md">Ver mais</a>-->
-    <!-- IMGS
-      ------------------------------
-      home-without-podcast
-      home-with-podcast
-      ------------------------------
-      podcast-information
-      ------------------------------
-    -->
+
 
 ## Rodando o projeto 🚴🏻‍♂️
 #### "Só vou dar uma olhadinha...":
-  <a href="https://podcastr-nyctibiusvii.vercel.app/">🎧 Site hospedado na Vercel 🎶</a>
+  <a href="https://nlw-5-react.vercel.app/">🎧 Site hospedado na Vercel 🎶</a>
 
 #### Na sua maquina:
 <details>
