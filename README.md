@@ -43,9 +43,12 @@ Projeto desenvolvido para gerenciar seus podcasts. Projeto realizado na Next Lev
 
 ## Tecnologias 🚀
 Esse projeto foi desenvolvido com as seguintes tecnologias:
+<p align="center">
  <img align="left" src="https://paulofreitasdev.files.wordpress.com/2021/04/reactjs-1.png"/>
+ </p>
  
 ## Layout 🚧
+
 ## Desktop Screenshot
 <div style="display: flex; flex-direction: 'column'; align-items: 'center';">
 <!-- Responsive, 1440 x 900, 50% (Laptop L - 1440px)-->
