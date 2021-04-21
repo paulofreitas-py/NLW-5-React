@@ -70,8 +70,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 
 ## Rodando o projeto 🚴🏻‍♂️
-#### "Só vou dar uma olhadinha...":
+#### Deploy:
   <a href="https://nlw-5-react-podcastr.vercel.app/">🎧 Site hospedado na Vercel 🎶</a>
+
+  ## Material da Aula 📚
+
+<a href="https://www.notion.so/Material-para-a-aula-01-92b506e9339f4f8b9b50612c7a414289"> Notion 📚  </a>
+  
 
 #### Na sua maquina:
 <details>
