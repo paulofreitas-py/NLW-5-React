@@ -138,6 +138,6 @@ Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://disc
 | Dia 5 | # |
 
 ## Licença ⚖️
-Este projeto está sob a licença do MIT. Veja o arquivo [LICENSE](https://github.com/NyctibiusVII/Podcastr/blob/main/LICENSE) para mais detalhes.
+Este projeto está sob a licença do MIT. Veja o arquivo [LICENSE](https://github.com/paulofreitas-py/NLW-5-React/blob/main/LICENSE) para mais detalhes.
 
 ## Contato ✉️
