@@ -1,6 +1,6 @@
 <h1 align="center">
     <br>
-    <img src="./.github/logo-podcastr.svg" width="200" heigh="150" alt="logo podcastr">
+    <img src="https://paulofreitasdev.files.wordpress.com/2021/04/screenshot-2021-04-21-at-16-08-16-figma.png">
 </h1>
 <h4 align="center">
     Trilha ReactJS <img src="./.github/logo-react.svg" height="15" alt="logo react">
