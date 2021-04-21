@@ -44,8 +44,10 @@ Projeto desenvolvido para gerenciar seus podcasts. Projeto realizado na Next Lev
 ## Tecnologias 🚀
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 <p align="center">
- <img align="left" src="https://paulofreitasdev.files.wordpress.com/2021/04/reactjs-1.png"/>
- </p>
+<img alt="SAAS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+<img alt="Typecript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <br>
+</p>
  
 ## Layout 🚧
 
