@@ -133,3 +133,5 @@ Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://disc
 Este projeto está sob a licença do MIT. Veja o arquivo [LICENSE](https://github.com/paulofreitas-py/NLW-5-React/blob/main/LICENSE) para mais detalhes.
 
 ## Contato ✉️
+<a href="https://paulofreitas-py.vercel.app/">
+        <img src="https://avatars.githubusercontent.com/u/42820569?v=4" width="100px;" alt="@paulofreitas.py"/><br>
