@@ -43,19 +43,8 @@ Projeto desenvolvido para gerenciar seus podcasts. Projeto realizado na Next Lev
 
 ## Tecnologias 🚀
 Esse projeto foi desenvolvido com as seguintes tecnologias:
-<br>
-<p align="center">
-    <img alt="Typecript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <br>
-</p>
-
-- [Html | 5](https://pt.wikipedia.org/wiki/HTML)
-- [Css | 3](https://pt.wikipedia.org/wiki/Cascading_Style_Sheets)
-- [Typescript | ^4.2.4](https://www.typescriptlang.org/)
-- [ReactJS | ^17.0.2](https://pt-br.reactjs.org/)
-- [NextJS | ^10.1.3](https://nextjs.org/)
-- [NodeJS | ^14.16.1](https://nodejs.org/en/)
-
+ <img align="left" src="https://paulofreitasdev.files.wordpress.com/2021/04/reactjs-1.png"/>
+ 
 ## Layout 🚧
 ## Desktop Screenshot
 <div style="display: flex; flex-direction: 'column'; align-items: 'center';">
