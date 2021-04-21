@@ -43,6 +43,12 @@ Projeto desenvolvido para gerenciar seus podcasts. Projeto realizado na Next Lev
 
 ## Tecnologias 🚀
 Esse projeto foi desenvolvido com as seguintes tecnologias:
+<br>
+<p align="center">
+    <img alt="Typecript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <br>
+</p>
+
 - [Html | 5](https://pt.wikipedia.org/wiki/HTML)
 - [Css | 3](https://pt.wikipedia.org/wiki/Cascading_Style_Sheets)
 - [Typescript | ^4.2.4](https://www.typescriptlang.org/)
@@ -71,13 +77,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 
 ## Rodando o projeto 🚴🏻‍♂️
-#### Deploy:
+#### "Só vou dar uma olhadinha...":
   <a href="https://nlw-5-react-podcastr.vercel.app/">🎧 Site hospedado na Vercel 🎶</a>
-
-  ## Material da Aula 📚
-
-<a href="https://www.notion.so/Material-para-a-aula-01-92b506e9339f4f8b9b50612c7a414289"> Notion 📚  </a>
-  
 
 #### Na sua maquina:
 <details>
