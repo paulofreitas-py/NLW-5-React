@@ -1,5 +1,6 @@
 <h1 align="center">
     <br>
+    <img src="https://paulofreitasdev.files.wordpress.com/2021/04/reactjs.jpg">
     <img src="https://paulofreitasdev.files.wordpress.com/2021/04/screenshot-2021-04-21-at-16-08-16-figma.png">
 </h1>
 
@@ -75,10 +76,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
     <!--<img width="180px" src="./.github/mobile/podcast-information.png">-->
 </div>
 
+## Rprototipo (Figma) do projeto 🚴🏻‍♂️
+  <a href="https://nlw-5-react-podcastr.vercel.app/">🎧 Site hospedado na Vercel 🎶</a>
 
-## Rodando o projeto 🚴🏻‍♂️
-#### "Só vou dar uma olhadinha...":
-  <a href="https://reactjs-podcastr-nlw5.vercel.app">🎧 Site hospedado na Vercel 🎶</a>
+## Deploy do projeto 🚴🏻‍♂️
+  <a href="https://nlw-5-react-podcastr.vercel.app/">🎧 Site hospedado na Vercel 🎶</a>
 
 #### Na sua maquina:
 <details>
